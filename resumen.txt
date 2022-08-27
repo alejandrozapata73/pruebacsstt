@@ -1,0 +1,24 @@
+
+
+lenguaje de etiquetas..
+
+<apertura> contenido </apertura>
+
+lenguaje interpretado (Editor de Codigo) - V8 (motor)
+..html
+
+
+lenguajes compilados (IDE):
+-JAVA
+-C++
+-C#
+
+
+
+1- crear un archivo con extension html
+
+lenguaje de etiquetas
+
+
+
+
